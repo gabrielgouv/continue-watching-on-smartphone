@@ -1,6 +1,6 @@
 {
-    "name": "YouTube Continue Watching on Smartphone",
-    "description": "Test",
+    "name": "Continue Watching on Smartphone",
+    "description": "A Google Chrome extension to continue watching YouTube videos from your PC to smartphone",
     "version": "1.0",
     "manifest_version": 3,
     "permissions": [
